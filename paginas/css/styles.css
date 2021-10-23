@@ -1,0 +1,156 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(162, 172, 173);
+}
+
+
+h1{
+    background-color: rgb(180, 180, 204);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    padding: 5px;
+    border-style:outset;
+    border-color: rgba(191, 204, 10, 0.411);
+    border-width: 15px;
+    box-shadow: 10px 10px 20px 20px;
+    }
+
+
+
+
+.listado{
+    background-color: hsl(240, 29%, 76%);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 20px 50px 20px 50px;
+    padding: 1px;
+    border-style:outset;
+    border-color: rgba(191, 204, 10, 0.411);
+    border-width: 15px;
+    box-shadow: 10px 10px 20px 10px;
+}
+
+
+.todas{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    width: 350px;
+    height: 500px;
+    background-color:  hsl(240, 29%, 76%);
+    padding: 10px 20px 10px 40px;
+    margin: 20px;
+    border-style: outset;
+    border-color: cadetblue;
+    border-width: 10px;
+    overflow: auto;
+    line-height:2;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.todas1{
+    position: relative;
+    left: 475px;
+    bottom:500px;
+    width: 350px;
+    height: 500px;
+    background-color:  hsl(240, 29%, 76%);
+    padding: 10px 20px 10px 40px;
+    margin: 20px;
+    border-style: outset;
+    border-color: cadetblue;
+    border-width: 10px;
+    overflow: auto;
+    line-height:2;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.todas2{
+    position: relative;
+    left: 940px;
+    bottom: 1020px;
+    width: 350px;
+    height: 500px;
+    background-color:  hsl(240, 29%, 76%);
+    padding: 10px 20px 10px 40px;
+    margin: 20px;
+    border-style: outset;
+    border-color: cadetblue;
+    border-width: 10px;
+    overflow: auto;
+    line-height:2;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+    
+
+
+button{
+    color: rgb(207, 31, 31);
+    background-color: rgb(220, 226, 220);
+    border-style: ridge;
+}
+
+
+
+
+
+
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h3{
+    background-color: rgba(2, 231, 247, 0.315);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 20px 50px 20px 50px;
+    padding: 1px;
+    border-style:double;
+    border-color: rgb(3, 3, 3);
+    border-width: 15px;
+    font-size: 25px;
+    box-shadow: 10px 10px 20px;
+}
+p{
+    background-color: rgb(163, 187, 187);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: -20px 100px 30px 100px;
+    padding: 12px;
+    border-style: solid;
+    border-width: 1ch;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20PX;
+    box-shadow: 10px 10px 40px 20px;
+}
+
